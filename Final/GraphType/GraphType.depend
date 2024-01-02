@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1686446971 source:d:\cse-225l\final\graphtype\quetype.cpp
+	"quetype.h"
+
+1686446923 d:\cse-225l\final\graphtype\quetype.h
+
+1686446860 source:d:\cse-225l\final\graphtype\stacktype.cpp
+	"StackType.h"
+
+1686446834 d:\cse-225l\final\graphtype\stacktype.h
+
+1686447943 source:d:\cse-225l\final\graphtype\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1686448121 d:\cse-225l\final\graphtype\graphtype.h
+	"stacktype.h"
+	"quetype.h"
+
+1686446860 d:\cse-225l\final\graphtype\stacktype.cpp
+	"StackType.h"
+
+1686446971 d:\cse-225l\final\graphtype\quetype.cpp
+	"quetype.h"
+

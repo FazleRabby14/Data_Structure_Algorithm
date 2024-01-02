@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1686286528 source:d:\cse-225l\class task\assignment\assignmnet.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+
